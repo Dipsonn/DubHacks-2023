@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{25E379BC-76B1-ABC4-7770-4341B199A6A4}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8def379d-b292-4c71-8262-89cadcb19730" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ColorSwapper.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ColliderDelay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ColorSwapper.cs" Line="19" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity XR Interaction Toolkit Sandbox" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="XR" expanded="True" />
+              <Node name="XRI" expanded="True" />
+            </Node>
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
